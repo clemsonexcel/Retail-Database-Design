@@ -33,8 +33,7 @@ The company previously managed data using spreadsheets and disconnected applicat
 The final **Entitly-Relationship Diagram (ERD)** showing all tables and their relationships, highlighting primary keys, foreign keys, and how entities connect.
 
 ![Image](ERD.png)
-![Top Paying Skills](visualizations/top_10_job_skills.png)
-![Image](ERD.png)
+
 
 ## SQL Snippets
 
