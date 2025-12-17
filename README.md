@@ -32,7 +32,7 @@ The company previously managed data using spreadsheets and disconnected applicat
 
 The final **Entity-Relationship Diagram (ERD)** showing all tables and their relationships, highlighting primary keys, foreign keys, and how entities connect.
 
-![Dashboard-Image](ERD.png)
+![Image](ERD.png)
 
 
 ## SQL Snippets
